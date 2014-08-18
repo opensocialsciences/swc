@@ -1,0 +1,5 @@
+oficina para uso do GIT
+
+software carpentry
+http://software-carpentry.org
+GIT - sistema de controle de edição.

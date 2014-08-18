@@ -3,3 +3,5 @@ oficina para uso do GIT
 software carpentry
 http://software-carpentry.org
 GIT - sistema de controle de edição.
+
+1. Participarei das oficinas de Content Mining e Pesquisa com imagens

@@ -16,3 +16,5 @@ novas mudanças localmente
 
 mudanças online sem mudar localmente
 
+alteração via clone
+

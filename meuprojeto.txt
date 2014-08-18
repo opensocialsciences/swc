@@ -9,3 +9,5 @@ GIT - sistema de controle de edição.
 2. Participarei de todas as mesas do seminário.
 
 mudanças...nao marcadas.
+
+Alteracoes feitas na interface online

@@ -5,3 +5,5 @@ http://software-carpentry.org
 GIT - sistema de controle de edição.
 
 1. Participarei das oficinas de Content Mining e Pesquisa com imagens
+
+2. Participarei de todas as mesas do seminário.

@@ -11,3 +11,5 @@ GIT - sistema de controle de edição.
 mudanças...nao marcadas.
 
 Alteracoes feitas na interface online
+
+mudanças online sem mudar localmente
